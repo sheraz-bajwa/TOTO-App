@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "808764785099",
+    "firebase_url": "https://stop-watch-aeb55.firebaseio.com",
+    "project_id": "stop-watch-aeb55",
+    "storage_bucket": "stop-watch-aeb55.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:808764785099:android:a14a49de3fe3ecb93ab64e",
+        "android_client_info": {
+          "package_name": "com.example.todoapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "808764785099-9kgl041hb5efmkf4u38k5krime86ig7m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.todoapp",
+            "certificate_hash": "70ac0b8c2fa7e2a424dc54d8267b96bf27ca9f4d"
+          }
+        },
+        {
+          "client_id": "808764785099-npit32qhi5qdain3ej4g8q21q5rs9n9g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJhgyt_PmQCFk3cQ33aRL5sn5tozyNZ6k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "808764785099-npit32qhi5qdain3ej4g8q21q5rs9n9g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
